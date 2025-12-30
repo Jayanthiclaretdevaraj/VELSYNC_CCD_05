@@ -115,7 +115,7 @@ https://velsync-ccd-05.onrender.com/health
 ![Docker Container Running](output1.png)
 
 ### 2️⃣ Health Endpoint Tested Using curl
-![Health Check Curl](Output2(2).png)
+![Health Check Curl](output3.png)
 
 ### 3️⃣ Render Deployment Logs (Service Live)
 ![Render Logs](output2.png)
